@@ -54,16 +54,16 @@
 })();
 */
 const messages = [
-    "Are you sure?",
-    "Really sure??",
-    "Are you positive?",
-    "Pookie please...",
-    "Just think about it!",
-    "If you say no, I will be really sad...",
-    "I will be very sad...",
-    "I will be very very very sad...",
-    "Ok fine, I will stop asking...",
-    "Just kidding, say yes please! ❤️"
+    "awah?",
+    "n3tiwk forsa??",
+    "mn nitk?",
+    "gha fkri mzian...",
+    "ktd7ki m3ayaaa!",
+    "Darori la...",
+    "yak a tartona ster...",
+    "yak a otsijin diali ...",
+    "sf wa5a mb9itch ghanswel...",
+    "akhir mra! ❤️"
 ];
 
 let messageIndex = 0;
